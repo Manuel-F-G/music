@@ -23,7 +23,7 @@ class _HomePageState extends State<HomePage> {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Text(
-                "Hello, Pathway",
+                "Hola, furry",
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               Text(
